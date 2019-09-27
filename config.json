@@ -1,7 +1,7 @@
 {
   "xlsx": {
     "head": 1,
-    "master": "Sheet1",
+    "master": "scrollView",
     "src": "./excel/**/[^~$]*.xlsx",
     "dest": "./json"
   },
